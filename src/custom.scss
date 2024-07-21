@@ -1,0 +1,23 @@
+$primary: #A4C3B2;
+$secondary: #F6FFF8;
+$blue: #A4C3B2;
+
+$font-family-base: "Helvetica", sans-serif;
+
+h1, h2, h4{
+    font-family: 'Georgia', sans-serif;
+}
+
+@import "../node_modules/bootstrap/scss/_functions";
+@import "../node_modules/bootstrap/scss/_variables";
+
+$custom-theme-colors: (
+    "mygreen": #A4C3B2,
+    "mylightgreen": #F6FFF8,
+    "mydarkgreen": #6B9080,
+    "mybrown": #66585A
+);
+
+$theme-colors: map-merge($custom-theme-colors, $theme-colors);
+
+@import '~bootstrap/scss/bootstrap.scss';
