@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/study_smart/static/css/main.71751441.css",
+    "main.js": "/study_smart/static/js/main.2535bea6.js",
+    "static/media/pic1.png": "/study_smart/static/media/pic1.4d57294c3f0a7dc931d6.png",
+    "static/media/pic4.png": "/study_smart/static/media/pic4.eb72c8920f198db295d7.png",
+    "static/media/pic5.jpg": "/study_smart/static/media/pic5.d4a36758cbc5fcb4c577.jpg",
+    "static/media/timer.jpeg": "/study_smart/static/media/timer.14338bcc681b92aa4e07.jpeg",
+    "static/media/tutor.jpg": "/study_smart/static/media/tutor.56131dc68f4d28753593.jpg",
+    "static/media/pic2.jpg": "/study_smart/static/media/pic2.0d2d30690e3a5482844b.jpg",
+    "static/media/group.jpeg": "/study_smart/static/media/group.5814f28c4b393c943268.jpeg",
+    "static/media/pic7.png": "/study_smart/static/media/pic7.cd040266a2fef7c5131b.png",
+    "static/media/ex_timer.png": "/study_smart/static/media/ex_timer.1a9509813bfa4cb848a0.png",
+    "static/media/pic8.png": "/study_smart/static/media/pic8.5733e0d14645b76aa423.png",
+    "static/media/planner.jpeg": "/study_smart/static/media/planner.3b8083ffefbb18987ae1.jpeg",
+    "static/media/ex_tutors.png": "/study_smart/static/media/ex_tutors.ea0a0beab8b6fc4e10d0.png",
+    "static/media/pic14.jpg": "/study_smart/static/media/pic14.7083b8a7d503b5b039b1.jpg",
+    "static/media/pic12.webp": "/study_smart/static/media/pic12.4cc3c2d57de0e6043765.webp",
+    "static/media/pic3.jpeg": "/study_smart/static/media/pic3.59cb86a7ca8ec1b9f9ec.jpeg",
+    "static/media/ex_planner.png": "/study_smart/static/media/ex_planner.7b2a1f622ef68540e13c.png",
+    "static/media/tree5.jpg": "/study_smart/static/media/tree5.c999481872c553c81e40.jpg",
+    "static/media/pic11.webp": "/study_smart/static/media/pic11.c3f2be5c93d4abd4aa91.webp",
+    "static/media/pic10.webp": "/study_smart/static/media/pic10.c6d1bda64154d505511e.webp",
+    "static/media/pic15.webp": "/study_smart/static/media/pic15.449ef0497407e082e2a0.webp",
+    "static/media/tree4.jpg": "/study_smart/static/media/tree4.85843471511e184fddce.jpg",
+    "static/media/pic13.webp": "/study_smart/static/media/pic13.2accd7a9f2123a7f5c68.webp",
+    "static/media/pic6.webp": "/study_smart/static/media/pic6.5c01ca29b1b810fb42d7.webp",
+    "static/media/pic9.webp": "/study_smart/static/media/pic9.fb88af82f3ceb99e190c.webp",
+    "index.html": "/study_smart/index.html",
+    "main.71751441.css.map": "/study_smart/static/css/main.71751441.css.map",
+    "main.2535bea6.js.map": "/study_smart/static/js/main.2535bea6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71751441.css",
+    "static/js/main.2535bea6.js"
+  ]
+}
